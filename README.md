@@ -15,4 +15,4 @@ Search a product in the furniture store. View the app alive [here][link]
 * Bootstrap
 
 
-[link]: store-api-search.herokuapp.com/api/v1/products
+[link]: https://store-api-search.herokuapp.com/api/v1/products
